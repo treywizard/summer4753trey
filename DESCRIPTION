@@ -3,7 +3,7 @@ Type: Package
 Title: Trey's Summer R
 Version: 0.1.0
 Author: Trey Lavender
-Maintainer: trey.lavender@yahoo.com
+Maintainer: <trey.lavender@yahoo.com>
 Description: A collection of modified MATH 4753 lab functions.
 License: MIT + file LICENSE
 Encoding: UTF-8
